@@ -23,7 +23,7 @@ Thanks to `yue2.cpp` optimizations and lightweight weights, this notebook allows
 1. Open the notebook using the badge above.
 2. Make sure your Colab hardware accelerator is set to the free **T4 GPU**  
 3. Run the cells in order — the notebook downloads the build from Releases and runs it inside the Colab runtime.
-4. Open the WebUI (Some internet service providers have blocked or heavily restricted the free *.trycloudflare.com domains via their DNS servers)
+4. Open the WebUI, Turn off your ad-blocker if you use. (Some internet service providers have blocked or heavily restricted the free *.trycloudflare.com domains via their DNS servers)
 5. If *.trycloudflare.com is blocked, go to your browser settings and in security or privacy look for "Secure DNS" and change it to: Cloudflare (1.1.1.1) or Google (Public DNS)
 
 ## Encourage adding the official skill to your AI agent 😊
